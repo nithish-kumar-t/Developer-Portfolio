@@ -1,4 +1,4 @@
-# Backend Developer Portfolio Template
+<!-- # Backend Developer Portfolio Template
 
 [Demo](https://www.devportfoliotemplates.com/portfolio-templates/backend-developer)
 
@@ -137,4 +137,4 @@ If you find these templates helpful, please consider:
 - Sharing with other developers
 - [Buying me a coffee](https://www.buymeacoffee.com/andreiancu) ☕
 
-For issues and feature requests, please [create an issue](https://github.com/devportfoliotemplates/devportfoliotemplates/issues).
+For issues and feature requests, please [create an issue](https://github.com/devportfoliotemplates/devportfoliotemplates/issues). -->
