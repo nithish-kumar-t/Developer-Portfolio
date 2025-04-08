@@ -41,7 +41,7 @@ export default function ContactSection() {
 								whileHover={{ scale: 1.02 }}
 								className="inline-block px-6 py-3 bg-green-500/10 text-green-400 rounded-lg border border-green-500/20 hover:bg-green-500/20 transition-colors"
 							>
-								alex.chen@example.com
+								nithish.kumar@example.com
 							</motion.a>
 							<p className="text-green-500 mt-8 mb-2">$ cat resume.pdf</p>
 							<motion.a

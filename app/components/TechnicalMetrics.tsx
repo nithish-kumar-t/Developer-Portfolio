@@ -11,7 +11,7 @@ export default function TechnicalMetrics() {
 				</motion.h2>
 
 				<div className="grid grid-cols-1 gap-12">
-					{/* System Performance */}
+					{/* System Performance
 					<div>
 						<h3 className="text-xl font-semibold mb-6 text-green-400">System Performance</h3>
 						<div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -42,9 +42,9 @@ export default function TechnicalMetrics() {
 								</ul>
 							</motion.div>
 						</div>
-					</div>
+					</div> */}
 
-					{/* Infrastructure & DevOps */}
+					{/* Infrastructure & DevOps
 					<div>
 						<h3 className="text-xl font-semibold mb-6 text-green-400">Infrastructure & DevOps</h3>
 						<div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -75,7 +75,7 @@ export default function TechnicalMetrics() {
 								</ul>
 							</motion.div>
 						</div>
-					</div>
+					</div> */}
 
 					{/* Development & Leadership */}
 					<div>
@@ -89,7 +89,7 @@ export default function TechnicalMetrics() {
 							>
 								<h4 className="text-lg font-semibold text-gray-300">Code Quality</h4>
 								<ul className="mt-2 space-y-2 text-gray-400">
-									<li>• Led adoption of TypeScript across backend</li>
+									<li>• Led adoption of latest Java feature across backend</li>
 									<li>• Established coding standards</li>
 									<li>• Reduced technical debt by 40%</li>
 								</ul>
@@ -103,8 +103,8 @@ export default function TechnicalMetrics() {
 								<h4 className="text-lg font-semibold text-gray-300">Team Impact</h4>
 								<ul className="mt-2 space-y-2 text-gray-400">
 									<li>• Mentored 4 junior developers</li>
-									<li>• Created 30+ technical documentation guides</li>
-									<li>• Led 3 major system migrations</li>
+									<li>• Created technical documentation guides</li>
+									{/* <li>• </li> */}
 								</ul>
 							</motion.div>
 						</div>
